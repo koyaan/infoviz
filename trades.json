@@ -1,0 +1,802 @@
+[
+  {
+    "timestamp": 1525218980,
+    "tid": 237466227,
+    "price": "9085.1",
+    "amount": "0.01021498",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218978,
+    "tid": 237466223,
+    "price": "9085.0",
+    "amount": "0.05459517",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218978,
+    "tid": 237466222,
+    "price": "9085.0",
+    "amount": "0.05335422",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218978,
+    "tid": 237466218,
+    "price": "9085.1",
+    "amount": "0.00798162",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218975,
+    "tid": 237466210,
+    "price": "9085.0",
+    "amount": "0.1",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218975,
+    "tid": 237466209,
+    "price": "9085.0",
+    "amount": "0.09951283",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218975,
+    "tid": 237466206,
+    "price": "9085.0",
+    "amount": "0.0207792",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218975,
+    "tid": 237466205,
+    "price": "9085.1",
+    "amount": "0.41846068",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218975,
+    "tid": 237466192,
+    "price": "9085.1",
+    "amount": "0.00239332",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218974,
+    "tid": 237466182,
+    "price": "9085.0",
+    "amount": "0.05597688",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218970,
+    "tid": 237466128,
+    "price": "9085.1",
+    "amount": "0.01193525",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218970,
+    "tid": 237466127,
+    "price": "9085.1",
+    "amount": "0.00264599",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218969,
+    "tid": 237466125,
+    "price": "9085.0",
+    "amount": "0.09137735",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218967,
+    "tid": 237466113,
+    "price": "9085.1",
+    "amount": "0.00248864",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218964,
+    "tid": 237466099,
+    "price": "9085.1",
+    "amount": "0.00330495",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218963,
+    "tid": 237466092,
+    "price": "9085.1",
+    "amount": "0.0387377",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218962,
+    "tid": 237466088,
+    "price": "9085.1",
+    "amount": "0.12898905",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218961,
+    "tid": 237466085,
+    "price": "9085.1",
+    "amount": "0.00330495",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218952,
+    "tid": 237466039,
+    "price": "9085.1",
+    "amount": "0.1",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218946,
+    "tid": 237465990,
+    "price": "9085.0",
+    "amount": "0.3861",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218944,
+    "tid": 237465969,
+    "price": "9085.0",
+    "amount": "0.25",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218944,
+    "tid": 237465967,
+    "price": "9085.0",
+    "amount": "0.006274",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218942,
+    "tid": 237465940,
+    "price": "9085.0",
+    "amount": "0.003082",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218942,
+    "tid": 237465923,
+    "price": "9085.0",
+    "amount": "0.00622618",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218940,
+    "tid": 237465909,
+    "price": "9085.1",
+    "amount": "0.08172027",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218939,
+    "tid": 237465893,
+    "price": "9085.0",
+    "amount": "0.06337783",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218937,
+    "tid": 237465875,
+    "price": "9085.1",
+    "amount": "0.19509943",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218937,
+    "tid": 237465874,
+    "price": "9085.0",
+    "amount": "0.08798076",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218937,
+    "tid": 237465871,
+    "price": "9085.1",
+    "amount": "0.78326932",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218934,
+    "tid": 237465816,
+    "price": "9085.1",
+    "amount": "0.42009368",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218933,
+    "tid": 237465804,
+    "price": "9085.1",
+    "amount": "0.32819672",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218933,
+    "tid": 237465796,
+    "price": "9085.1",
+    "amount": "0.10421306",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218933,
+    "tid": 237465794,
+    "price": "9085.1",
+    "amount": "0.71880349",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218933,
+    "tid": 237465789,
+    "price": "9085.1",
+    "amount": "0.10421306",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465784,
+    "price": "9085.1",
+    "amount": "0.10421306",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465781,
+    "price": "9085.1",
+    "amount": "0.10421306",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465774,
+    "price": "9085.1",
+    "amount": "0.11034965",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465772,
+    "price": "9085.1",
+    "amount": "0.06550153",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465771,
+    "price": "9085.1",
+    "amount": "0.0295943",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465770,
+    "price": "9085.1",
+    "amount": "0.01576436",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465769,
+    "price": "9085.1",
+    "amount": "0.23960925",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465768,
+    "price": "9085.1",
+    "amount": "0.49766709",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465767,
+    "price": "9085.1",
+    "amount": "0.12012774",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465765,
+    "price": "9085.0",
+    "amount": "3.0",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218932,
+    "tid": 237465761,
+    "price": "9085.1",
+    "amount": "0.1005723",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218931,
+    "tid": 237465757,
+    "price": "9085.1",
+    "amount": "0.02625926",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218930,
+    "tid": 237465736,
+    "price": "9085.0",
+    "amount": "1.08327379",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218928,
+    "tid": 237465700,
+    "price": "9085.0",
+    "amount": "0.047982",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218927,
+    "tid": 237465670,
+    "price": "9085.1",
+    "amount": "0.09400417",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218926,
+    "tid": 237465650,
+    "price": "9085.0",
+    "amount": "0.8",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218926,
+    "tid": 237465649,
+    "price": "9085.0",
+    "amount": "1.0",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218926,
+    "tid": 237465648,
+    "price": "9085.0",
+    "amount": "0.8",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218926,
+    "tid": 237465647,
+    "price": "9085.1",
+    "amount": "0.00931805",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218925,
+    "tid": 237465627,
+    "price": "9085.0",
+    "amount": "10.95692",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218925,
+    "tid": 237465626,
+    "price": "9085.3",
+    "amount": "2.26028",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218925,
+    "tid": 237465625,
+    "price": "9085.4",
+    "amount": "1.0",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218925,
+    "tid": 237465623,
+    "price": "9085.95291802",
+    "amount": "0.022",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218925,
+    "tid": 237465621,
+    "price": "9085.95291802",
+    "amount": "0.056",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465619,
+    "price": "9085.95291802",
+    "amount": "0.014",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465617,
+    "price": "9086.0",
+    "amount": "4.25",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465616,
+    "price": "9086.01305747",
+    "amount": "0.248",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465614,
+    "price": "9086.01305747",
+    "amount": "0.256",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465607,
+    "price": "9086.8",
+    "amount": "0.3",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465606,
+    "price": "9087.21253114",
+    "amount": "0.006",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465604,
+    "price": "9087.21253114",
+    "amount": "0.108",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465602,
+    "price": "9087.21253114",
+    "amount": "0.138",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465600,
+    "price": "9087.21253114",
+    "amount": "0.112",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465592,
+    "price": "9087.3",
+    "amount": "0.06191196",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465587,
+    "price": "9087.3",
+    "amount": "0.05495088",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218924,
+    "tid": 237465580,
+    "price": "9087.3",
+    "amount": "0.0544031",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465545,
+    "price": "9087.7",
+    "amount": "0.00613379",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465537,
+    "price": "9087.7",
+    "amount": "0.00613379",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465530,
+    "price": "9087.8",
+    "amount": "0.00613379",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465528,
+    "price": "9087.8",
+    "amount": "0.00613379",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465527,
+    "price": "9088.8925179",
+    "amount": "0.00002592",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465525,
+    "price": "9088.8925179",
+    "amount": "0.00997408",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465523,
+    "price": "9089.73142585",
+    "amount": "0.00002592",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465521,
+    "price": "9089.73142585",
+    "amount": "0.00397408",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218921,
+    "tid": 237465519,
+    "price": "9089.8",
+    "amount": "0.00002592",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218920,
+    "tid": 237465518,
+    "price": "9089.8",
+    "amount": "1.08949295",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218920,
+    "tid": 237465517,
+    "price": "9089.8",
+    "amount": "0.67",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218920,
+    "tid": 237465516,
+    "price": "9089.8",
+    "amount": "0.00570705",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218920,
+    "tid": 237465515,
+    "price": "9089.8",
+    "amount": "0.00772877",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218920,
+    "tid": 237465514,
+    "price": "9089.9",
+    "amount": "0.015",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218918,
+    "tid": 237465499,
+    "price": "9089.9",
+    "amount": "0.07166479",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218915,
+    "tid": 237465482,
+    "price": "9089.9",
+    "amount": "0.00239068",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218911,
+    "tid": 237465422,
+    "price": "9089.9",
+    "amount": "0.07166479",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218911,
+    "tid": 237465409,
+    "price": "9089.9",
+    "amount": "0.0275882",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218910,
+    "tid": 237465393,
+    "price": "9089.9",
+    "amount": "0.0326",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218909,
+    "tid": 237465387,
+    "price": "9089.9",
+    "amount": "0.1371932",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218909,
+    "tid": 237465381,
+    "price": "9089.9",
+    "amount": "0.07166479",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218909,
+    "tid": 237465378,
+    "price": "9089.8",
+    "amount": "0.12162787",
+    "exchange": "bitfinex",
+    "type": "sell"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465377,
+    "price": "9089.9",
+    "amount": "0.01604049",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465371,
+    "price": "9089.9",
+    "amount": "0.04920621",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465365,
+    "price": "9089.9",
+    "amount": "0.04920621",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465360,
+    "price": "9089.9",
+    "amount": "0.04920621",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465356,
+    "price": "9089.9",
+    "amount": "0.03242548",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465354,
+    "price": "9089.9",
+    "amount": "0.01678073",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218908,
+    "tid": 237465346,
+    "price": "9089.9",
+    "amount": "0.01561162",
+    "exchange": "bitfinex",
+    "type": "buy"
+  },
+  {
+    "timestamp": 1525218907,
+    "tid": 237465323,
+    "price": "9089.8",
+    "amount": "0.10995754",
+    "exchange": "bitfinex",
+    "type": "sell"
+  }
+]
