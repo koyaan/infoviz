@@ -17,26 +17,28 @@ def hello():
         scheme="https",
         port=9200,
     )
-
     websocket = yield from websockets.connect('wss://api.bitfinex.com/ws/2')
-    yield from websocket.send('{"event":"subscribe","channel":"trades","symbol":"BTCUSD"}')
+    yield from websocket.send('{"event": "subscribe","channel": "book","pair": "BTCUSD","prec": "R0","len":"100"}')
     ack = yield from websocket.recv()
-    #    print(ack)
-    lasttrades = yield from websocket.recv()
-    #    print(lasttrades)
+    print(" < %s " % ack)
+    subscribe_ack = yield from websocket.recv()
+    print(" < %s " % subscribe_ack)
+    raw_snapshot = yield from websocket.recv()
+    snapshot = json.loads(raw_snapshot)
+    print(snapshot[1])
+    # TODO: save snapshot?
     while True:
         raw = yield from websocket.recv()
         message = json.loads(raw)
-        if message[1] == "tu":
-            msg = message[2]
-            print(msg)
+        msg = message[1]
+        if len(msg) == 3: # not like [17,"hb"]
             doc = {
-                "tid": msg[0],
-                "timestamp": msg[1],
+                "orderid": msg[0],
+                "price": msg[1],
                 "amount": msg[2],
-                "price": msg[3],
                 "localtime": int(time.time()*1000)
             }
-            es.index(index="bitfinextradesbtc", doc_type='doc', body=json.dumps(doc))
+            print(doc)
+            ret = es.index(index="bitfinexbtcbookupdate", doc_type='doc', body=json.dumps(doc))
 
 asyncio.get_event_loop().run_until_complete(hello())
