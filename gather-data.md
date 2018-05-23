@@ -45,3 +45,25 @@ curl --user elastic -X PUT "https://elastic.koyaan.com:9200/bitfinexbtcbookupdat
 }
 '
 ```
+
+# mapping for full orderbook
+
+```
+curl --user elastic -X PUT "https://elastic.koyaan.com:9200/bitfinexbtcbook" -H 'Content-Type: application/json' -d'
+{
+ "mappings": {
+  "doc": {
+   "properties": {
+    "book": {
+        "type": "nested"
+    },
+    "localtime": {
+             "type":   "date",
+             "format": "epoch_millis"
+            }
+   }
+  }
+ }
+}
+'
+```
