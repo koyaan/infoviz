@@ -2,5 +2,5 @@ asyncio==3.4.3
 certifi==2018.4.16
 dotenv-python==0.0.1
 elasticsearch==6.2.0
-urllib3==1.24.2
+urllib3==1.26.5
 websockets==5.0
